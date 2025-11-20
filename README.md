@@ -100,7 +100,8 @@ Preferred communication style: Simple, everyday language.
 - PostCSS with Tailwind and Autoprefixer
 - tsx for TypeScript execution in development
 
-###Output
+### Output
+
 <img width="1871" height="873" alt="Screenshot 2025-11-19 162215" src="https://github.com/user-attachments/assets/1d32e199-ea13-4082-b769-1b718eda4ffe" />
 <img width="1877" height="864" alt="Screenshot 2025-11-19 185026" src="https://github.com/user-attachments/assets/0cd44d13-48e6-4fa6-b531-e413b0c36afb" />
 
